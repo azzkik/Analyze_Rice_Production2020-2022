@@ -12,7 +12,7 @@ This project aims to analyze the trends in rice production in Indonesia from 202
 The data used for this analysis is sourced from Indonesian Central Bureau of Statistics (https://www.bps.go.id/), a reputable organization that collects and publishes agricultural data. The dataset includes information on rice production by region, year, and other relevant variables.
 
 ## Methodology
-I performed data preprocessing, exploratory data analysis (EDA), and data visualization to achieve the project objectives. Python libraries, such as Pandas, Matplotlib, and Seaborn, were used for data analysis and visualization.
+Performed data preprocessing, exploratory data analysis (EDA), and data visualization to achieve the project objectives. Python libraries, such as Pandas, Matplotlib, and Seaborn, were used for data analysis and visualization.
 
 ## Key Findings
 - The visualization reveals a fluctuating pattern in rice production from 2020 to 2022.
